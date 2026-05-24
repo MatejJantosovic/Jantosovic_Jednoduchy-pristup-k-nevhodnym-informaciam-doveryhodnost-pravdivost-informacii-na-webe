@@ -2,3 +2,17 @@
 5-7 minut prezentovanie
 https://socrizikt.estranky.sk/clanky/jednoduchy-pristup-k-nevhodnym-informaciam/
 https://socialne-rizika.estranky.sk/clanky/doveryhodnost--pravdivost-informacii-na-webe.html
+
+<table>
+				<table style="margin-middle: auto;width:100%; heigth:500%;">
+    		<tr>
+      			<th>Rok</th>
+     			<th>Intenzita</th>
+      			<th>Hlavné hrozby</th>
+				<th>Spôsob šírenia</th>
+    		</tr>
+    		<tr><td>2023</td>		<td>cca 1 143 útokov org/týž</td>		<td>Hacktivizmus (politicky motivované DDoS útoky) a klasický phishing</td>							<td>Podvodné e-maily a napodobeniny legitímnych webových stránok</td>	</tr>
+    		<tr><td>2024</td>		<td>cca 1 450 útokov org/týž</td>		<td>Pokročilý ransomvér (vydieračský softvér) a cielenie na štátne inštitúcie</td>					<td>Infikované e-mailové prílohy a škodlivé softvérové balíky</td>	</tr>
+    		<tr><td>2025</td>		<td>cca 1 842 útokov org/týž</td>		<td>Škodlivé siete (botnety), masívne DDoS útoky a phishing generovaný umelou inteligenciou</td>	<td>E-mailová komunikácia, ktorá tvorila až 73 % všetkých doručených hrozieb</td>	</tr>
+    		
+  </table>	
